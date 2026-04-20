@@ -1,0 +1,9 @@
+.hero ¨{
+    padding: 80px 0;
+    background-color: #f5f5f5;
+}
+
+.hero h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
