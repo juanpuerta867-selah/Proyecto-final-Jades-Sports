@@ -65,3 +65,31 @@ productos h2 {
 .footer a:hover {
     text-decoration: underline;
 }
+
+@media (max-width: 768px) {
+
+    .hero {
+        text-align: center;
+        padding: 40px 20px;
+    }
+
+    .hero h1 {
+        font-size: 35px;
+    }
+
+    .productos .card {
+        margin-bottom: 20px;
+    }
+
+    .nosotros {
+        text-align: center;
+    }
+
+    .beneficios .cod-md-4 {
+        margin-bottom: 20px;
+    }
+
+    .footer {
+        text-align: center;
+    }
+}
