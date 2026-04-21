@@ -50,3 +50,18 @@ productos h2 {
 .contacto h2 {
     font-weight: bold;
 }
+
+.footer {
+    background-color: #000;
+    color: white;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
