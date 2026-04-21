@@ -42,3 +42,11 @@ productos h2 {
     margin-bottom: 10px;
     font-weight: bold;
 }
+
+.contacto {
+    background-color: #ffffff;
+}
+
+.contacto h2 {
+    font-weight: bold;
+}
