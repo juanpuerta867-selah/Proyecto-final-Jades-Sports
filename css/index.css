@@ -1,9 +1,17 @@
 .hero ¨{
     padding: 80px 0;
-    background-color: #f5f5f5;
+    background-color: rgb(230, 80, 152);
 }
 
 .hero h1 {
     font-size: 50px;
+    font-weight: bold;
+}
+
+.productos {
+    background-color: #f8f8f8;
+}
+
+productos h2 {
     font-weight: bold;
 }
